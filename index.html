@@ -353,7 +353,7 @@
     flex-shrink: 0;
   }
 
-  .item-title { flex: 1; }
+  .item-title { flex: 1; color: var(--text); }
 
   .item-tag {
     font-size: 10px;
@@ -362,7 +362,7 @@
   }
 
   .item-tag.available { color: var(--green); }
-  .item-tag.soon { color: var(--gold-dim); }
+  .item-tag.soon { color: var(--text-faint); }
 
   /* Frameworks */
   .frameworks-grid {
@@ -480,6 +480,7 @@
     padding: 4px 10px;
     border: 1px solid var(--border-dim);
     color: var(--text-faint);
+    opacity: 0.5;
     cursor: pointer;
     transition: all 0.2s;
   }
@@ -487,6 +488,7 @@
   .tag:hover {
     border-color: var(--gold-dim);
     color: var(--gold-dim);
+    opacity: 1;
   }
 
   /* Message Board */
