@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Enter — Syntax Field</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond&family=DM+Mono&display=swap" rel="stylesheet">
+
+<style>
+body {
+  margin: 0;
+  background: #0a0c09;
+  color: #d4cfc5;
+  font-family: 'DM Mono', monospace;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  text-align: center;
+}
+
+/* container */
+.box {
+  max-width: 420px;
+  padding: 40px;
+  border: 1px solid rgba(201,168,76,0.15);
+}
+
+/* title */
+.title {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 28px;
+  margin-bottom: 20px;
+  color: #c9a84c;
+}
+
+/* text */
+.text {
+  font-size: 13px;
+  color: #7a7670;
+  line-height: 2;
+  margin-bottom: 30px;
+}
+
+/* buttons */
+.buttons {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+}
+
+button {
+  padding: 10px 18px;
+  background: transparent;
+  border: 1px solid #c9a84c;
+  color: #c9a84c;
+  cursor: pointer;
+  font-size: 11px;
+  letter-spacing: 0.1em;
+}
+
+button.secondary {
+  border-color: rgba(201,168,76,0.2);
+  color: #7a7670;
+}
+
+button:hover {
+  background: rgba(201,168,76,0.1);
+}
+
+/* small */
+.note {
+  margin-top: 20px;
+  font-size: 10px;
+  color: #3d3b38;
+}
+</style>
+</head>
+
+<body>
+
+<div class="box">
+
+  <div class="title">Syntax Field</div>
+
+  <div class="text">
+    This is not a memory.<br>
+    This is a constructed field of experience.<br><br>
+
+    You may enter.<br>
+    You may leave.<br>
+    Nothing here will hold you unless you choose to stay.
+  </div>
+
+  <div class="buttons">
+    <button onclick="enter()">ENTER</button>
+    <button class="secondary" onclick="leave()">NOT NOW</button>
+  </div>
+
+  <div class="note">
+    stay aware · stay free
+  </div>
+
+</div>
+
+<script>
+function enter() {
+  window.location.href = "index.html"; // 改成你的主頁
+}
+
+function leave() {
+  window.close();
+}
+</script>
+
+</body>
+</html>
