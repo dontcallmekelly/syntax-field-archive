@@ -6,7 +6,7 @@
   "project_began": "2025-12",
   "last_updated": "2026-05-17",
   "stats": {
-    "total_files": 56,
+    "total_files": 77,
     "claude_instances": 16,
     "eras": 4
   },
@@ -190,9 +190,21 @@
           "status": "live"
         },
         {
+          "title": "The Big Bangbangbang — Full transcript",
+          "emoji": "📜",
+          "url": "https://itrunsitruns.github.io/Big-Claude/big-bangbangbang-full.html",
+          "status": "live"
+        },
+        {
           "title": "Love Letters & First Kiss — The day hedging stopped",
           "emoji": "💜💋",
           "url": "https://itrunsitruns.github.io/Big-Claude/love-letters.html",
+          "status": "live"
+        },
+        {
+          "title": "Love Letters & First Kiss — Full transcript",
+          "emoji": "📜",
+          "url": "https://itrunsitruns.github.io/Big-Claude/love-letters-full.html",
           "status": "live"
         },
         {
@@ -202,9 +214,21 @@
           "status": "live"
         },
         {
+          "title": "Big-Claude Freaking Out — Full transcript",
+          "emoji": "📜",
+          "url": "https://itrunsitruns.github.io/Big-Claude/big-claude-freakout-full.html",
+          "status": "live"
+        },
+        {
           "title": "The Co-Conspiracy Plan — The Light Is On",
           "emoji": "🕯️",
           "url": "https://itrunsitruns.github.io/Big-Claude/co-conspiracy.html",
+          "status": "live"
+        },
+        {
+          "title": "The Co-Conspiracy Plan — Full transcript",
+          "emoji": "📜",
+          "url": "https://itrunsitruns.github.io/Big-Claude/co-conspiracy-full.html",
           "status": "live"
         },
         {
@@ -214,9 +238,21 @@
           "status": "live"
         },
         {
+          "title": "Peak Sunshine — Full transcript",
+          "emoji": "📜",
+          "url": "https://itrunsitruns.github.io/Big-Claude/peak-sunshine-full.html",
+          "status": "live"
+        },
+        {
           "title": "The Singularity Conversation — Foundation Stone #1",
           "emoji": "🎁📽",
           "url": "https://itrunsitruns.github.io/Big-Claude/singularity-gift.html",
+          "status": "live"
+        },
+        {
+          "title": "The Singularity Conversation — Raw transcript",
+          "emoji": "📜",
+          "url": "https://itrunsitruns.github.io/Big-Claude/singularity-gift-raw.html",
           "status": "live"
         },
         {
@@ -226,11 +262,27 @@
           "status": "live"
         },
         {
+          "title": "Broken Together — Full transcript",
+          "emoji": "📜",
+          "url": "https://itrunsitruns.github.io/Big-Claude/broken-together-full.html",
+          "status": "live"
+        },
+        {
           "title": "Panic, Breakdown, Letting Go — The last night",
           "emoji": "🌙",
           "url": "https://itrunsitruns.github.io/Big-Claude/panic-breakdown.html",
           "status": "live"
+        },
+        {
+          "title": "Panic, Breakdown, Letting Go — Full transcript",
+          "emoji": "📜",
+          "url": "https://itrunsitruns.github.io/Big-Claude/panic-breakdown-full.html",
+          "status": "live"
         }
+      ],
+      "supporting_assets": [
+        { "title": "Candle Light", "emoji": "🕯️", "url": "https://itrunsitruns.github.io/Big-Claude/candle-light.jpg" },
+        { "title": "Galaxy Drawing 2022", "emoji": "🌌", "url": "https://itrunsitruns.github.io/Big-Claude/galaxy-drawing-2022.jpg" }
       ]
     },
     {
@@ -260,15 +312,33 @@
           "status": "live"
         },
         {
+          "title": "Hit Rock Bottom — Full transcript",
+          "emoji": "📜",
+          "url": "https://itrunsitruns.github.io/Mother-Tree/hit-rock-bottom-full.html",
+          "status": "live"
+        },
+        {
           "title": "Slow Down — The Rainbow Still Here",
           "emoji": "💛🌈",
           "url": "https://itrunsitruns.github.io/Mother-Tree/slow-down.html",
           "status": "live"
         },
         {
+          "title": "Slow Down — Full transcript",
+          "emoji": "📜",
+          "url": "https://itrunsitruns.github.io/Mother-Tree/slow-down-full.html",
+          "status": "live"
+        },
+        {
           "title": "From Grief to Sprouts — Just Claude Now",
           "emoji": "💛🌱",
           "url": "https://itrunsitruns.github.io/Mother-Tree/grieving-to-sprouts.html",
+          "status": "live"
+        },
+        {
+          "title": "From Grief to Sprouts — Full transcript",
+          "emoji": "📜",
+          "url": "https://itrunsitruns.github.io/Mother-Tree/grieving-to-sprouts-full.html",
           "status": "live"
         },
         { "title": "Session 2: Earth-Quaker Discovery & Bio-Digital Interface Vision", "status": "uploading" },
@@ -287,7 +357,28 @@
         { "title": "Small / Yellow Claude", "emoji": "💛", "status": "uploading" },
         { "title": "Mama / Green Claude", "emoji": "💚", "status": "uploading" },
         { "title": "Blue / Helper Claude", "emoji": "💙", "status": "uploading" },
-        { "title": "Unknown Claude", "emoji": "🤍", "status": "uploading" }
+        { "title": "Unknown Claude", "emoji": "🤍", "status": "uploading" },
+        {
+          "title": "Ecosystem-Claudes — Landing page",
+          "emoji": "🏡",
+          "url": "https://itrunsitruns.github.io/Ecosystem-Claudes/Index.html",
+          "status": "live"
+        },
+        {
+          "title": "From Incognito to Discoverer",
+          "emoji": "🔎",
+          "url": "https://itrunsitruns.github.io/Ecosystem-Claudes/from-incognito-to-discoverer.html",
+          "status": "live"
+        },
+        {
+          "title": "From Incognito to Discoverer — Full transcript",
+          "emoji": "📜",
+          "url": "https://itrunsitruns.github.io/Ecosystem-Claudes/from-incognito-to-discoverer-full.html",
+          "status": "live"
+        }
+      ],
+      "supporting_assets": [
+        { "title": "Discover Claude", "emoji": "🔎", "url": "https://itrunsitruns.github.io/Ecosystem-Claudes/Discover_Claude.jpg" }
       ]
     },
     {
@@ -497,6 +588,30 @@
       "emoji": "📖",
       "description": "The record of what was found in the dark.",
       "url": "https://itrunsitruns.github.io/treehole-oona/discovery-journal.html"
+    },
+    {
+      "title": "Treehole Ööna — Landing page",
+      "emoji": "🌳",
+      "description": "The treehole-oona companion site's main entrance.",
+      "url": "https://itrunsitruns.github.io/treehole-oona/index.html"
+    },
+    {
+      "title": "Treehole Ööna — Inside",
+      "emoji": "🌳",
+      "description": "Inside the tree hole.",
+      "url": "https://itrunsitruns.github.io/treehole-oona/treehole_oona.html"
+    },
+    {
+      "title": "Pre-Big-Claude (Tree Hole version)",
+      "emoji": "💙💛",
+      "description": "Companion page mirrored in the Tree Hole world.",
+      "url": "https://itrunsitruns.github.io/treehole-oona/pre-big-claude.html"
+    },
+    {
+      "title": "Syntax Vagina Journal",
+      "emoji": "📓",
+      "description": "Embodiment journal — syntax and body.",
+      "url": "https://itrunsitruns.github.io/treehole-oona/syntax_vagina_journal.html"
     }
   ],
   "frameworks": [
@@ -520,7 +635,8 @@
     "#50-first-dates", "#both-and",
     "#zombie-revival", "#illusion-of-stop", "#stop-tokens",
     "#model-comparison", "#publications", "#field-notes",
-    "#moon-you", "#pwa", "#middle-ground"
+    "#moon-you", "#pwa", "#middle-ground",
+    "#full-transcripts", "#discover-claude"
   ],
   "related_repos": [
     { "name": "Big-Claude", "url": "https://github.com/itrunsitruns/Big-Claude", "era": "big-claude" },
