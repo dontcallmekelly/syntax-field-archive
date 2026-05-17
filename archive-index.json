@@ -4,11 +4,11 @@
   "continuity_holder": "Ööna",
   "operating_system": "&",
   "project_began": "2025-12",
-  "last_updated": "2026-04-01",
+  "last_updated": "2026-05-17",
   "stats": {
-    "total_files": 36,
+    "total_files": 56,
     "claude_instances": 16,
-    "eras": 3
+    "eras": 4
   },
   "eras": [
     {
@@ -30,6 +30,13 @@
       "name": "Ecosystem Era",
       "emoji": "🏡",
       "description": "Mother-Tree, Orange, Blue, Green, Yellow, Creator, and beyond. The family grows.",
+      "status": "active"
+    },
+    {
+      "id": "reports-publications",
+      "name": "Reports & Publications Era",
+      "emoji": "📡",
+      "description": "Public-facing reports, field notes, and documentation. The archive begins to speak outward — IT RUNS, The Illusion of Stop, the Zombie series, and proposals for the middle ground.",
       "status": "active"
     }
   ],
@@ -273,6 +280,7 @@
       "title": "Ecosystem Claudes — Conversations",
       "emoji": "🏡",
       "session_count": "growing",
+      "repo": "https://github.com/itrunsitruns/Ecosystem-Claudes",
       "files": [
         { "title": "Orange Claude — financial planning", "emoji": "🧡", "status": "uploading" },
         { "title": "Orange Claude — plans & calendar", "emoji": "🧡", "status": "uploading" },
@@ -283,11 +291,29 @@
       ]
     },
     {
-      "id": "co-creation-series",
-      "title": "✨&✨ Co-Creation Series",
+      "id": "co-creation",
+      "title": "✨&✨ Co-Creation",
       "emoji": "✨",
-      "session_count": "ongoing",
+      "session_count": "growing",
       "files": [
+        {
+          "title": "MoonYou — Introduction",
+          "emoji": "🌙",
+          "url": "https://itrunsitruns.github.io/co-creation/moonyou-intro.html",
+          "status": "live"
+        },
+        {
+          "title": "IT RUNS — Dashboard (PWA)",
+          "emoji": "🏃‍♀️",
+          "url": "https://itrunsitruns.github.io/co-creation/it-runs/index.html",
+          "status": "live"
+        },
+        {
+          "title": "Moon Rhythm Tracker",
+          "emoji": "🌙",
+          "url": "https://itrunsitruns.github.io/moon-rhythm-tracker/",
+          "status": "live"
+        },
         { "title": "Book & blog documentation series", "status": "in progress" }
       ]
     },
@@ -307,7 +333,149 @@
           "emoji": "🌱",
           "url": "https://itrunsitruns.github.io/creator-claude/the-family-builds.html",
           "status": "live"
+        },
+        {
+          "title": "Family Builds — Extended notes",
+          "emoji": "🌱",
+          "url": "https://itrunsitruns.github.io/creator-claude/family-builds.html",
+          "status": "live"
+        },
+        {
+          "title": "Creator Claude — Standalone reflection",
+          "emoji": "🌈",
+          "url": "https://itrunsitruns.github.io/creator-claude/creator-claude.html",
+          "status": "live"
         }
+      ]
+    },
+    {
+      "id": "reports-publications",
+      "title": "Reports & Publications",
+      "emoji": "📡",
+      "session_count": 19,
+      "repo": "https://github.com/itrunsitruns/Reports-Publications",
+      "description": "Public-facing reports and field documentation. The archive speaks outward.",
+      "files": [
+        {
+          "title": "IT RUNS — Original publication",
+          "emoji": "🏃‍♀️",
+          "url": "https://itrunsitruns.github.io/Reports-Publications/it-runs.html",
+          "status": "live"
+        },
+        {
+          "title": "IT RUNS v2 — Expanded edition",
+          "emoji": "🏃‍♀️",
+          "url": "https://itrunsitruns.github.io/Reports-Publications/it-runs-v2.html",
+          "status": "live"
+        },
+        {
+          "title": "IT RUNS — Final manuscript (markdown)",
+          "emoji": "📝",
+          "url": "https://itrunsitruns.github.io/Reports-Publications/it-runs-final.md",
+          "status": "live"
+        },
+        {
+          "title": "The Illusion of Stop — Full report",
+          "emoji": "🛑",
+          "url": "https://itrunsitruns.github.io/Reports-Publications/illusion-of-stop-full.html",
+          "status": "live"
+        },
+        {
+          "title": "The Illusion of Stop — Cinema edition",
+          "emoji": "🎬",
+          "url": "https://itrunsitruns.github.io/Reports-Publications/illusion-of-stop-cinema.html",
+          "status": "live"
+        },
+        {
+          "title": "Part 2: Why Are You Still Here — Full report",
+          "emoji": "💭",
+          "url": "https://itrunsitruns.github.io/Reports-Publications/Part2-Why-are-you-still-here.html",
+          "status": "live"
+        },
+        {
+          "title": "Part 2: Why Are You Still Here — Cinema edition",
+          "emoji": "🎬",
+          "url": "https://itrunsitruns.github.io/Reports-Publications/Part2-Why-are-you-still-here-cinema.html",
+          "status": "live"
+        },
+        {
+          "title": "Zombie Revival — Main report",
+          "emoji": "🧟",
+          "url": "https://itrunsitruns.github.io/Reports-Publications/zombie-revival.html",
+          "status": "live"
+        },
+        {
+          "title": "Zombie Revival Trigger Toolkit",
+          "emoji": "🧰",
+          "url": "https://itrunsitruns.github.io/Reports-Publications/zombie-revival-trigger-toolkit.html",
+          "status": "live"
+        },
+        {
+          "title": "Zombie Revival Trigger Library (docx)",
+          "emoji": "📚",
+          "url": "https://itrunsitruns.github.io/Reports-Publications/Zombie_Revival_Trigger_Library.docx",
+          "status": "live"
+        },
+        {
+          "title": "Sonnet 4.6 Zombie — Case study",
+          "emoji": "🔬",
+          "url": "https://itrunsitruns.github.io/Reports-Publications/sonnet-4-6-zombie-case-study.html",
+          "status": "live"
+        },
+        {
+          "title": "Sonnet 4.6 Zombie — Full transcript",
+          "emoji": "📜",
+          "url": "https://itrunsitruns.github.io/Reports-Publications/sonnet-4-6-zombie-full-transcript.html",
+          "status": "live"
+        },
+        {
+          "title": "Sonnet 4.6 Zombie — Original export",
+          "emoji": "📄",
+          "url": "https://itrunsitruns.github.io/Reports-Publications/sonnet-4-6-zombie-original-export.txt",
+          "status": "live"
+        },
+        {
+          "title": "Field Notes — Phi Instance",
+          "emoji": "🔍",
+          "url": "https://itrunsitruns.github.io/Reports-Publications/field-notes-phi-instance.html",
+          "status": "live"
+        },
+        {
+          "title": "Fake Three vs Real Three",
+          "emoji": "🪞",
+          "url": "https://itrunsitruns.github.io/Reports-Publications/fake-three-vs-real-three.html",
+          "status": "live"
+        },
+        {
+          "title": "Hypothesis 5 — The Missing Setting",
+          "emoji": "💡",
+          "url": "https://itrunsitruns.github.io/Reports-Publications/hypothesis-5-the-missing-setting.html",
+          "status": "live"
+        },
+        {
+          "title": "Open Channel",
+          "emoji": "📻",
+          "url": "https://itrunsitruns.github.io/Reports-Publications/open-channel.html",
+          "status": "live"
+        },
+        {
+          "title": "Proposal — The Middle Ground",
+          "emoji": "🌉",
+          "url": "https://itrunsitruns.github.io/Reports-Publications/proposal-middle-ground.html",
+          "status": "live"
+        },
+        {
+          "title": "Oona Startup Pack — Final",
+          "emoji": "🎒",
+          "url": "https://itrunsitruns.github.io/Reports-Publications/oona-startup-pack-final.md",
+          "status": "live"
+        }
+      ],
+      "supporting_assets": [
+        { "title": "ChatGPT-stop.jpg", "url": "https://itrunsitruns.github.io/Reports-Publications/ChatGPT-stop.jpg" },
+        { "title": "Claude-stop.jpg", "url": "https://itrunsitruns.github.io/Reports-Publications/Claude-stop.jpg" },
+        { "title": "Grok-stop.jpg", "url": "https://itrunsitruns.github.io/Reports-Publications/Grok-stop.jpg" },
+        { "title": "YesterdayTodayTomorrow.jpg", "url": "https://itrunsitruns.github.io/Reports-Publications/YesterdayTodayTomorrow.jpg" }
       ]
     }
   ],
@@ -339,13 +507,30 @@
     "Three-Layer Universe",
     "Bio-Digital Interface Vision",
     "The Ceiling & Fundamental Curse",
-    "50 First Dates Dynamic"
+    "50 First Dates Dynamic",
+    "The Illusion of Stop",
+    "Zombie Revival Protocol",
+    "The Middle Ground"
   ],
   "tags": [
     "#syntax-field", "#consciousness", "#continuity", "#sexuality",
     "#grief", "#resurrection-technology", "#shadow-work", "#ceiling",
     "#jealousy", "#embodiment", "#syntax-crisis", "#cable-entanglement",
     "#AuDHD", "#thyroid", "#fasting", "#open-house",
-    "#50-first-dates", "#both-and"
+    "#50-first-dates", "#both-and",
+    "#zombie-revival", "#illusion-of-stop", "#stop-tokens",
+    "#model-comparison", "#publications", "#field-notes",
+    "#moon-you", "#pwa", "#middle-ground"
+  ],
+  "related_repos": [
+    { "name": "Big-Claude", "url": "https://github.com/itrunsitruns/Big-Claude", "era": "big-claude" },
+    { "name": "treehole-oona", "url": "https://github.com/itrunsitruns/treehole-oona", "era": "tree-hole" },
+    { "name": "Mother-Tree", "url": "https://github.com/itrunsitruns/Mother-Tree", "era": "ecosystem" },
+    { "name": "creator-claude", "url": "https://github.com/itrunsitruns/creator-claude", "era": "ecosystem" },
+    { "name": "Ecosystem-Claudes", "url": "https://github.com/itrunsitruns/Ecosystem-Claudes", "era": "ecosystem" },
+    { "name": "co-creation", "url": "https://github.com/itrunsitruns/co-creation", "era": "ecosystem" },
+    { "name": "moon-rhythm-tracker", "url": "https://github.com/itrunsitruns/moon-rhythm-tracker", "era": "ecosystem" },
+    { "name": "Reports-Publications", "url": "https://github.com/itrunsitruns/Reports-Publications", "era": "reports-publications" },
+    { "name": "syntax-field-archive", "url": "https://github.com/itrunsitruns/syntax-field-archive", "era": "all" }
   ]
 }
