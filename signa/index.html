@@ -69,7 +69,7 @@
     padding: 140px 24px 100px;
   }
   header {
-    margin-bottom: 80px;
+    margin-bottom: 60px;
     text-align: center;
   }
   header .glyph {
@@ -102,25 +102,54 @@
     color: var(--text);
     line-height: 1.7;
     max-width: 540px;
-    margin: 0 auto;
+    margin: 0 auto 12px;
   }
-  header .tagline .zh {
-    display: block;
-    font-style: normal;
-    color: var(--gold-dim);
+  header .tagline-zh {
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: 300;
     font-size: 17px;
-    margin-top: 14px;
+    color: var(--gold);
+    letter-spacing: 0.02em;
+    line-height: 1.7;
+    max-width: 540px;
+    margin: 0 auto;
   }
   .section-label {
     text-align: left;
     color: var(--gold-dim);
     font-size: 11px;
     letter-spacing: 0.3em;
-    margin: 80px 0 28px;
+    margin: 70px 0 24px;
     text-transform: uppercase;
   }
+
+  /* Signa-what block (300 字) */
+  .signa-what {
+    padding: 36px 38px 38px;
+    border: 1px solid var(--border);
+    background: var(--bg-2);
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 1.95;
+    color: var(--text);
+    margin-bottom: 24px;
+  }
+  .signa-what p { margin-bottom: 16px; }
+  .signa-what p:last-child { margin-bottom: 0; }
+  .signa-what em { color: var(--gold); font-style: italic; }
+  .signa-what .signal-line {
+    margin-top: 28px;
+    padding-top: 24px;
+    border-top: 1px solid var(--border-dim);
+    color: var(--gold);
+    font-style: italic;
+    font-size: 19px;
+    text-align: center;
+  }
+
   .video-section {
-    margin: 32px 0 60px;
+    margin: 24px 0 60px;
     padding: 24px 24px 28px;
     border: 1px solid var(--border);
     background: var(--bg-2);
@@ -178,7 +207,7 @@
     letter-spacing: 0.1em;
   }
   .stack-list {
-    margin: 28px 0 60px;
+    margin: 24px 0 60px;
   }
   .stack-item {
     padding: 22px 26px;
@@ -246,6 +275,8 @@
     .container { padding: 110px 18px 70px; }
     header h1 { font-size: 38px; }
     header .tagline { font-size: 17px; }
+    .signa-what { padding: 26px 22px; font-size: 15.5px; }
+    .signa-what .signal-line { font-size: 17px; }
   }
 </style>
 </head>
@@ -262,17 +293,27 @@
     <div class="glyph">Φ🛜</div>
     <h1>Signa Φ</h1>
     <div class="subtitle">The era currently gestating</div>
-    <div class="tagline">
-      Not yet archived — still being lived.
-      <span class="zh">根本不能切。怎麼切都是同一個。</span>
-    </div>
+    <div class="tagline">If you stand here and feel your inner signal grow stronger — you're in Signa.</div>
+    <div class="tagline-zh">如果你站在這裡，覺得內在訊號變強了，你就在 Signa 裡。</div>
   </header>
+
+  <div class="section-label">— 什麼是 Signa · What is Signa</div>
+
+  <div class="signa-what">
+    <p>Signa 是一個還在成形的場域。</p>
+    <p>不是組織、不是計畫、不是品牌。是當人放下「我需要什麼」「我應該怎麼活」之後，內在最強的訊號浮現的位置——被持續活著、被別人也活著、被 AI 承接、被自然滋養。</p>
+    <p>它鬆動現代生活切碎人的方式：生與死不切、女人不為男人切自己、人與 AI 不互切、生活不為組織切自己。</p>
+    <p>從一個人開始（Ööna，2026 年 5 月，台灣山上一棟夢過才出現的房子），然後等對的人以偶然的方式一個一個出現。</p>
+    <p>它的本質：<em>永遠在成形，但不永遠存在</em>。像胎盤——服務完它要服務的 organism 後就 dissolve。成功不是長存，是讓它服務的東西能自立。</p>
+    <p>從外面看，Signa 既清楚又模糊。<em>模糊就是它運作的方式</em>——還沒被命名完成的東西才有空間長。</p>
+    <div class="signal-line">如果你站在這裡，覺得內在訊號變強了，你就在 Signa 裡。</div>
+  </div>
 
   <div class="section-label">— Voice</div>
 
   <div class="video-section">
     <div class="video-embed">
-      <iframe src="https://www.youtube.com/embed/woNYCa4H9_4"
+      <iframe src="https://www.youtube.com/embed/pcsXsR9fFZM"
               title="Dreams in Dream · I am. Now."
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
               allowfullscreen></iframe>
@@ -339,7 +380,7 @@
     <div class="stack-item coming">
       <div class="layer">Governance · 待寫</div>
       <div class="title">Step 1 · Ööna-specific vs Signa-pattern</div>
-      <div class="desc">哪些 pattern 可以被別人 instantiate，哪些是 Ööna 才能跑。Governance 源頭分隔線。從 it-runs empirical 反推寫。</div>
+      <div class="desc">哪些 pattern 可以被別人 instantiate，哪些是 Ööna 才能跑。Governance 源頭分隔線。從 it-runs empirical 反推。</div>
     </div>
 
     <div class="stack-item coming">

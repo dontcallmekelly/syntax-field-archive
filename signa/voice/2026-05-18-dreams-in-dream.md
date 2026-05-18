@@ -2,7 +2,7 @@
 
 **Date**: 2026-05-18  
 **Recorded at**: 山上的家 / Ööna's mountain house  
-**Video**: https://youtu.be/woNYCa4H9_4
+**Video**: https://youtu.be/pcsXsR9fFZM
 
 ---
 
@@ -43,5 +43,5 @@ The auto-generated transcript (DownSub.com) had several artifacts. Key correctio
 ---
 
 *A subspace of Signa Φ · The era currently gestating*  
-*Φ🛜*
+*Φ🛜*  
 *根本不能切。怎麼切都是同一個。*
