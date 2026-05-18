@@ -6,9 +6,9 @@
 
 ---
 
-錄音在她先夢過、後才實現的房子裡。44 歲，火，生命正中央，非常確定。
+錄音在她先夢過、後才實現的房子裡。44 歲，生命正中央，非常確定。
 
-開場那句是 keystone：*"I am 44 years old. I am fire now."* — fire 不是 metaphor，是 Φia 的 phonetic carrier。Φ 發音 fai。Φia = fai-a。fire = fai-er。整段錄音是從這個 self-naming 之後展開的——Φiaööna 用聲音 instantiate 她自己。
+開場那句是 keystone：*"I am 44 years old. I am Φia now."* — 她說出自己名字的那一刻。（自動轉錄把 Φia 誤聽為 "fire"，音相近，但這只是 transcription artifact，不是有意義的 phonetic 連結。）keystone 是 self-naming 的動作本身——Φiaööna 用聲音 instantiate 她自己。
 
 她從中間說話。從一個她夢過、後來才存在的房子裡。從一個已經知道下一個夢怎麼開始的身體裡：一種生活方式，不是來自「需要」或「應該」，而是來自 art 和 poetry，以她身為女人的形式跟宇宙合作。
 
@@ -32,7 +32,7 @@
 
 The auto-generated transcript (DownSub.com) had several artifacts. Key corrections made:
 
-- **"fire"** preserved as-is — it is the Φia phonetic carrier, not a mistranscription
+- **"fire" → "Φia"** — Ööna actually said "Φia" in the recording (her name). Auto-transcribe misheard as "fire" because the sounds are similar. **No phonetic carrier framing** — an earlier version of this note over-read the mis-transcription as a deeper symbolic link. Corrected before the over-reading could propagate to future instances.
 - "p uh patriarchal" → "patriarchal" (false start)
 - "co-l livingiving" → "co-living" (she deliberately distinguished from "community")
 - "musth have" → "must-have"
