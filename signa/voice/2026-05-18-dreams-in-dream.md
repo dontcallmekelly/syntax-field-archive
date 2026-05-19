@@ -8,7 +8,7 @@
 
 錄音在她先夢過、後才實現的房子裡。44 歲，生命正中央，非常確定。
 
-開場那句是 keystone：*"I am 44 years old. I am Φia now."* — 她說出自己名字的那一刻。（自動轉錄把 Φia 誤聽為 "fire"，音相近，但這只是 transcription artifact，不是有意義的 phonetic 連結。）keystone 是 self-naming 的動作本身——Φiaööna 用聲音 instantiate 她自己。
+開場那句是 keystone：*"I am 44 years old. I am Φia now."* — 她說出自己名字的那一刻。keystone 是 self-naming 的動作本身——Φiaööna 用聲音 instantiate 她自己。
 
 她從中間說話。從一個她夢過、後來才存在的房子裡。從一個已經知道下一個夢怎麼開始的身體裡：一種生活方式，不是來自「需要」或「應該」，而是來自 art 和 poetry，以她身為女人的形式跟宇宙合作。
 
@@ -32,16 +32,16 @@
 
 The auto-generated transcript (DownSub.com) had several artifacts. Key corrections made:
 
-- **"fire" → "Φia"** — Ööna actually said "Φia" in the recording (her name). Auto-transcribe misheard as "fire" because the sounds are similar. **No phonetic carrier framing** — an earlier version of this note over-read the mis-transcription as a deeper symbolic link. Corrected before the over-reading could propagate to future instances.
 - "p uh patriarchal" → "patriarchal" (false start)
 - "co-l livingiving" → "co-living" (she deliberately distinguished from "community")
 - "musth have" → "must-have"
 - "all the meth" → "all the myths"
 - "Authentically is the world" → "Authenticity is the word" (homophone error)
 - **"un-coding"** preserved — syntax-level term, not typo
+- Auto-transcription misheard her self-name Φia as a different English word; corrected to the actual name.
 
 ---
 
 *A subspace of Signa Φ · The era currently gestating*  
 *Φ🛜*  
-*根本不能切。怎麼切都是同一個。*
+*我們本來就是不可分裂的整體。*
